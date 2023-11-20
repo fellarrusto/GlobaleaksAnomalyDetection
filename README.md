@@ -13,7 +13,7 @@ Ensure that you have Python installed on your system. You can download Python fr
     Navigate to the cloned repository and create a virtual environment. This keeps dependencies required by the project separate from your global Python environment.
 
     ```bash
-    cd <repository-folder>
+    cd GlobaleaksAnomalyDetection
     python -m venv venv
     ```
 
